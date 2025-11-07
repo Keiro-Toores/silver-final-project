@@ -16,9 +16,10 @@
 
 ### Esimene päev: 05.11.25
 
-- **Tutvusime tiimiga**:
-- **Arutasime ideesid**:
-- **Alustasime figmaga**:
+- **Tutvusime tiimiga**
+- **Arutasime ideesid**
+- **Alustasime figmaga**
+- **Panime Repo püsti**
 ---
 
 ### Teine päev: 06.11.25
