@@ -42,7 +42,9 @@ The page should serve as a **preview of the MotoRadar platform**.
 
 ### Day 3 – November 7, 2025
 - Finalized the code  
-- Prepared for the presentation  
+- Prepared for the presentation
+- 
+![IMG_0550](https://github.com/user-attachments/assets/94435247-6a02-4085-82f5-6faaebc898a7)
 
 ---
 
