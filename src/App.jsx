@@ -291,7 +291,7 @@ function App() {
                 type="submit"
                 className="bg-gradient-to-r from-[#4CAF50] to-[#45A049] hover:from-[#5DBE5F] hover:to-[#50B154] text-white font-bold px-8 md:px-10 py-4 md:py-5 rounded-xl transition-all duration-300 shadow-xl hover:shadow-2xl text-base md:text-lg whitespace-nowrap uppercase tracking-wider transform hover:scale-105 active:scale-95"
               >
-                Get Access
+                Get Notified
               </button>
             </form>
             <p className="text-xs md:text-sm text-white/50 font-light">
