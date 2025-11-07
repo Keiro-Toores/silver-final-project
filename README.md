@@ -36,30 +36,15 @@
 
 ---
 
-# :racing_motorcycle: MotoRadar
+
+# 🏍️ MotoRadar
 MotoRadar is a platform that brings together essential features for motorcyclists into one application. The goal is to create an active and useful community where users can share routes, information, events, and request assistance while on the road if needed.
 ---
-## :rocket: Project Goal
+## 🚀 Project Goal
 To create a system (API + user interface) that supports the motorcyclist community and makes the riding experience safer, more exciting, and improves the speed of information sharing.
 ---
 
-
-
-
-
-10:35
-# :racing_motorcycle: MotoRadar
-MotoRadar is a platform that brings together essential features for motorcyclists into one application. The goal is to create an active and useful community where users can share routes, information, events, and request assistance while on the road if needed.
----
-## :rocket: Project Goal
-To create a system (API + user interface) that supports the motorcyclist community and makes the riding experience safer, more exciting, and improves the speed of information sharing.
----
-## :link: Links
-- :art: [Figma](https://www.figma.com/design/TGvAjL17XIaSoKemeAOeQO/FINAL_PROJECT?node-id=0-1&p=f&t=bNDEiI4frhEMroet-0)
-- :clipboard: [Jira Board](https://silverreinart01-1760074771033.atlassian.net/jira/software/projects/SMS/boards/1)
-- :selfie:[Jira Confluence](https://silverreinart01-1760074771033.atlassian.net/wiki/x/AwAC)
----
-## :hammer_and_spanner: Tech Stack for MotoRadar
+## 🛠️ Tech Stack for MotoRadar
 | Layer       | Technology                                       | Notes                                                      |
 | ----------- | ------------------------------------------------ | ---------------------------------------------------------- |
 | Backend API | Firebase (Firestore + Realtime DB + Auth)       | Serverless backend, user authentication, route sharing, SOS alerts |
@@ -69,30 +54,30 @@ To create a system (API + user interface) that supports the motorcyclist communi
 | Maps        | Google Maps SDK for Flutter                      | Display routes, polylines, live users, markers           |
 | Deployment  | Direct APK install / Firebase App Distribution  | Free testing on Android devices; optional Play Store deployment |
 ---
-## :spanner: Core Features
-### :round_drawing_pin: Route Tracking
+## 🔧 Core Features
+### 📍 Route Tracking
 - Saves the ridden route (GPS-based).
 - Displays distance covered, average speed, and time spent.
 - Users can view and rate routes shared by others.
-### :compass: Route Sharing and Categorization
+### 🧭 Route Sharing and Categorization
 - Users can share their favorite riding routes.
 - Roads are categorized: **offroad**, **asphalt**, **mixed roads**, etc.
 - Routes can include descriptions, difficulty level, and photos.
-### :sos: Emergency Assistance Feature
+### 🆘 Emergency Assistance Feature
 - Ability to mark an exact location and describe the issue (e.g., mechanical failure).
 - Nearby users can see the assistance request and respond.
 - Replaces the need for Facebook posts in urgent situations.
-### :silhouettes: Live User Map
+### 👥 Live User Map
 - Displays registered users on the map (if visibility is enabled).
 - Option to join others on the same route or start a group ride.
-### :loudspeaker: Info Board & Classifieds
+### 📢 Info Board & Classifieds
 - Shared information space for motorcycle-related topics:
   - Events (gatherings, races)
   - Classifieds (parts, bikes, gear)
   - Services (workshops, repairs, transport, etc.)
 - Ability to filter by topic, location, or date.
 ---
-## :world_map: Roadmap
+## 🗺️ Roadmap
 This roadmap outlines the development plan for the **Moto Tracker App**, a Flutter-based motorcycle tracking app with local GPS tracking, route sharing, real-time user map, and emergency alerts.
 ---
 <details>
