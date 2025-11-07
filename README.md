@@ -1,68 +1,77 @@
 # 🏍️ MotoRadar
-MotoRadar is a platform that brings together essential features for motorcyclists into one application. The goal is to create an active and useful community where users can share routes, information, events, and request assistance while on the road if needed.
+
+**MotoRadar** is a platform that brings together essential tools and features for motorcyclists into one convenient application.  
+The goal is to build an active and supportive community where riders can share routes, events, and information — and request help if needed while on the road.
+
 ---
+
 ## 🚀 Project Goal
-To create a system (API + user interface) that supports the motorcyclist community and makes the riding experience safer, more exciting, and improves the speed of information sharing.
----
+The goal of this project is to create a **small, fully functional “Coming Soon” landing page** for Silver’s Final Project.  
+The page should serve as a **preview of the MotoRadar platform**.
 
-## Tiimi liikmed
-- **Silver Reinart** - Tak-23
-- **Keiro Toodre** - Tak-24
-- **Kevin Laanekivi** - Ta-25
-- **Rasmus Lek** - Tak-25
 
 ---
 
-## Projekti lingid
-- **Figma disain**: https://www.figma.com/design/TGvAjL17XIaSoKemeAOeQO/FINAL_PROJECT?node-id=34-2&t=2uUifZ3QoVVe6waz-0
-- **Live koduleht**: https://silver-final-project.vercel.app/
+## 👥 Team Members
 
-## Projekti ajakava
-
-### Esimene päev: 05.11.25
-
-- **Tutvusime tiimiga**
-- **Arutasime ideesid**
-- **Alustasime figmaga**
-- **Panime Repo püsti**
----
-
-### Teine päev: 06.11.25
-
-- Jätkasime fiigmaga kuna Genile ei meeldind meie idee
-- Alustasime koodimisega
+- **Silver Reinart** – Tak-23  
+- **Keiro Toodre** – Tak-24  
+- **Kevin Laanekivi** – Ta-25  
+- **Rasmus Lek** – Tak-25  
 
 ---
 
+## 🔗 Project Links
 
-### Kolmas päev: 07.11.25
-- Viimistlesime koodi
-- Valmistusime esitluseks
+- 🎨 **Figma Design:** https://www.figma.com/design/TGvAjL17XIaSoKemeAOeQO/FINAL_PROJECT?node-id=34-2&t=2uUifZ3QoVVe6waz-0
+- 🌐 **Live Website:** https://silver-final-project.vercel.app/
 
 ---
 
+## 📅 Project Timeline
 
+### Day 1 – November 5, 2025
+- Met with the team  
+- Discussed project ideas  
+- Started working on the Figma design  
+- Set up the project repository  
+
+### Day 2 – November 6, 2025
+- Continued improving the Figma design 
+- Started coding the project  
+
+### Day 3 – November 7, 2025
+- Finalized the code  
+- Prepared for the presentation  
+
+---
 
 ## 🔧 Core Features
+
 ### 📍 Route Tracking
-- Saves the ridden route (GPS-based).
-- Displays distance covered, average speed, and time spent.
-- Users can view and rate routes shared by others.
-### 🧭 Route Sharing and Categorization
-- Users can share their favorite riding routes.
-- Roads are categorized: **offroad**, **asphalt**, **mixed roads**, etc.
-- Routes can include descriptions, difficulty level, and photos.
-### 🆘 Emergency Assistance Feature
-- Ability to mark an exact location and describe the issue (e.g., mechanical failure).
-- Nearby users can see the assistance request and respond.
-- Replaces the need for Facebook posts in urgent situations.
+- Tracks and saves ridden routes using GPS  
+- Displays key data: distance, average speed, and total time  
+- Users can view, share, and rate routes from others  
+
+### 🧭 Route Sharing & Categorization
+- Riders can share their favorite routes  
+- Routes are categorized by type: **offroad**, **asphalt**, **mixed**, etc.  
+- Each route can include a description, difficulty level, and photos  
+
+### 🆘 Emergency Assistance
+- Riders can mark their exact location and describe the issue (e.g., mechanical problem)  
+- Nearby users can see assistance requests and offer help  
+- Provides a fast alternative to social media posts in urgent situations  
+
 ### 👥 Live User Map
-- Displays registered users on the map (if visibility is enabled).
-- Option to join others on the same route or start a group ride.
+- Displays online users on a live map (if visibility is enabled)  
+- Option to join other riders on their route or start a group ride  
+
 ### 📢 Info Board & Classifieds
-- Shared information space for motorcycle-related topics:
-  - Events (gatherings, races)
-  - Classifieds (parts, bikes, gear)
-  - Services (workshops, repairs, transport, etc.)
-- Ability to filter by topic, location, or date.
+A shared space for all motorcycle-related information:
+- 🏁 **Events:** gatherings, meetups, and races  
+- 🛵 **Classifieds:** bikes, parts, and gear  
+- 🧰 **Services:** workshops, repairs, transportation, etc.  
+- Filter posts by **topic**, **location**, or **date**  
+
 ---
