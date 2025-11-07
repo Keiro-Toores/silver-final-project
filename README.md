@@ -9,8 +9,8 @@
 ---
 
 ## Projekti lingid
-- **Figma disain**: (https://www.figma.com/design/TGvAjL17XIaSoKemeAOeQO/FINAL_PROJECT?node-id=34-2&t=2uUifZ3QoVVe6waz-0)
-- **Live koduleht**: 
+- **Figma disain**: https://www.figma.com/design/TGvAjL17XIaSoKemeAOeQO/FINAL_PROJECT?node-id=34-2&t=2uUifZ3QoVVe6waz-0
+- **Live koduleht**: https://silver-final-project.vercel.app/
 
 ## Projekti ajakava
 
