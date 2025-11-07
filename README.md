@@ -1,16 +1,33 @@
-# React + Vite
+# MotoRadar Final project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tiimi liikmed
+- **Silver Reinart** - Tak-23
+- **Keiro Toodre** - Tak-24
+- **Kevin Laanekivi** - Ta-25
+- **Rasmus Lek** - Tak-25
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Projekti lingid
+- **Figma disain**: (https://www.figma.com/design/TGvAjL17XIaSoKemeAOeQO/FINAL_PROJECT?node-id=34-2&t=2uUifZ3QoVVe6waz-0)
+- **Live koduleht**: 
 
-## React Compiler
+## Projekti ajakava
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Esimene päev: 05.11.25
 
-## Expanding the ESLint configuration
+- **Tutvusime tiimiga**:
+- **Arutasime ideesid**:
+- **Alustasime figmaga**:
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Teine päev: 06.11.25
+
+- Jätkasime fiigmaga kuna Genile ei meeldind :(
+
+---
+
+### Kolmas päev: 07.11.25
+
+
+---
