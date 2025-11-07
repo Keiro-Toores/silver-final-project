@@ -1,4 +1,9 @@
-# MotoRadar Final project
+# 🏍️ MotoRadar
+MotoRadar is a platform that brings together essential features for motorcyclists into one application. The goal is to create an active and useful community where users can share routes, information, events, and request assistance while on the road if needed.
+---
+## 🚀 Project Goal
+To create a system (API + user interface) that supports the motorcyclist community and makes the riding experience safer, more exciting, and improves the speed of information sharing.
+---
 
 ## Tiimi liikmed
 - **Silver Reinart** - Tak-23
@@ -37,12 +42,6 @@
 ---
 
 
-# 🏍️ MotoRadar
-MotoRadar is a platform that brings together essential features for motorcyclists into one application. The goal is to create an active and useful community where users can share routes, information, events, and request assistance while on the road if needed.
----
-## 🚀 Project Goal
-To create a system (API + user interface) that supports the motorcyclist community and makes the riding experience safer, more exciting, and improves the speed of information sharing.
----
 
 ## 🔧 Core Features
 ### 📍 Route Tracking
