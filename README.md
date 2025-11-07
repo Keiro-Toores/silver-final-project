@@ -23,11 +23,13 @@
 
 ### Teine päev: 06.11.25
 
-- Jätkasime fiigmaga kuna Genile ei meeldind :(
+- Jätkasime fiigmaga kuna Genile ei meeldind meie idee
+- Alustasime koodimisega
 
 ---
 
 ### Kolmas päev: 07.11.25
-
+- Viimistlesime koodi
+- Valmistusime esitluseks
 
 ---
