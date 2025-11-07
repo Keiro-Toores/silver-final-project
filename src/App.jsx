@@ -1,8 +1,10 @@
+import emailjs from "@emailjs/browser";
 import { useState, useEffect, useRef } from "react";
 import "./index.css";
 
 
 function App() {
+  const [status, setStatus] = useState("");
   const [email, setEmail] = useState("");
   const [days, setDays] = useState(0);
   const [hours, setHours] = useState(0);
