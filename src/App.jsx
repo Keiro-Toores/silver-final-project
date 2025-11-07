@@ -1,5 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import "./index.css";
+
+
 function App() {
   const [email, setEmail] = useState("");
   const [days, setDays] = useState(0);
@@ -33,16 +35,32 @@ function App() {
     const interval = setInterval(calculateCountdown, 60000);
     return () => clearInterval(interval);
   }, []);
+
+
   const handleSubmit = (e) => {
-    e.preventDefault();
-    if (email) {
-      console.log("Email submitted:", email);
-      setEmail("");
-      alert(
-        "Thank you for signing up! You'll be notified when Motoradar launches."
-      );
-    }
+  e.preventDefault();
+  if (!email) return;
+  const templateParams = {
+    user_email: email, // must match {{user_email}} in your EmailJS template
   };
+  emailjs
+    .send(
+      "service_p1qvmot",    // :white_check_mark: your service ID
+      "template_dt6kw9q",   // :white_check_mark: your template ID
+      templateParams,
+      "6ycf82wUljr0f4pow"   // :white_check_mark: your public key
+    )
+    .then(
+      () => {
+        setStatus(":white_check_mark: Email sent successfully!");
+        setEmail("");
+      },
+      (error) => {
+        console.error(":x: Email send failed:", error);
+        setStatus(`:x: Failed: ${error.text}`);
+      }
+    );
+};
   return (
     <div className="min-h-screen bg-[#0A2239] text-white">
       {/* Hero Section */}
